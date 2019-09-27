@@ -33,4 +33,10 @@ form {
     background-color: #f8f9fa!important;
     width: 960px;
     margin: auto;
+    margin-top: 20px;
+    padding: 50px;
+}
+
+h2{
+    margin: auto;
 }
