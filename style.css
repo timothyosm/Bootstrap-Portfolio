@@ -1,3 +1,7 @@
+body {
+    background-color: #f8f9fa!important;
+}
+
 .card {
     width: 960px;
     margin: auto;
@@ -21,15 +25,12 @@ header {
     margin: auto;
 }
 
-footer {
-    bottom: 0;
-    margin: auto;
-}
-
 form {
     margin: auto;
 }
 
-body{
+.container {
     background-color: #f8f9fa!important;
+    width: 960px;
+    margin: auto;
 }
